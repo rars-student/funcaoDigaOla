@@ -1,0 +1,22 @@
+body {
+  background-color: #c0c0c0 !important;
+}
+
+.main {
+  margin-top: 150px;
+  margin-bottom: 600px;
+  background-color: #ffffff;
+  padding: 40px;
+  box-shadow: -1px 1px 6px 1px rgba(0, 0, 0, 0.3);
+  border-radius: 80px 10px 80px 5px;
+  border-top: 8px solid orange;
+  text-align: center;
+}
+
+.header {
+  border-top: 8px solid orange;
+}
+
+#div-oculta {
+  display: none;
+}
